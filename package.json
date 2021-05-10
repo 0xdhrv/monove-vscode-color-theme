@@ -1,0 +1,21 @@
+{
+    "name": "monove",
+    "displayName": "monove",
+    "description": "Monove = Monochrome + Love",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monove",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monove-color-theme.json"
+            }
+        ]
+    }
+}
